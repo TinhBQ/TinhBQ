@@ -1,6 +1,6 @@
 <img align="right" width="64" src="https://github.com/TinhBQ.png" />
 
-<h1 align="center">Hi 👋, I'm Bùi Quốc Tĩnh</h1>s
+<h1 align="center">Hi 👋, I'm Bùi Quốc Tĩnh</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -60,12 +60,12 @@
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinhbq&show_icons=true&locale=en&layout=compact" alt="tinhbq" width="100%" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinhbq&show_icons=true&locale=en" alt="tinhbq" width="100%" />
     </td>
     <td>
-      <p align="center"> 
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinhbq&" alt="tinhbq" width="100%" />
-      </p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinhbq&show_icons=true&locale=en" alt="tinhbq" width="100%" />
     </td>
+  </tr>
+  <tr>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinhbq&" alt="tinhbq" width="100%" />
   </tr>
 </table>
